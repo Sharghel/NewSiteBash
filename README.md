@@ -2,8 +2,6 @@
 
 Lors de mon BTS j'ai du herbergé de nombreux site, notre intervenant à donc eu la bonne idée d'en faire un projet
 
-![Image calculatrice](https://github.com/SHarghel/MDSProjectWebLaravel/blob/main/dashboard.png)
-
 ## prérequis
 
 Possèder un server dans lequel vous voulez herbergé des sites web.
